@@ -1,0 +1,30 @@
+Date,2017-06-05,2017-07-11,2017-08-14
+Speech,0,0,0
+Facial Expression,1,1,1
+"Tremor (rest): Face, lips, chin",0,0,0
+Tremor (rest): Right Hand,1,0,0
+Tremor (rest): Left Hand,0,0,0
+Tremor (rest): Right Foot,0,0,0
+Tremor (rest): Left Foot,0,0,0
+Right Action Tremor,1,0,0
+Left Action Tremor,0,0,0
+Neck Regidity:,0,0,0
+Right UE Rigidity:,0,0,0
+Left UE Rigidity,0,0,0
+Right LE Rigidity,1,1,1
+Left LE Rigidity,0,0,0
+Right Finger Taps,1,1,1
+Left Finger Taps,1,1,1
+Right Hand Grips,0,0,0
+Left Hand Grips,0,0,0
+Right Hand Pron-Sup,1,1,1
+Left Hand Pron-Sup,0,0,0
+Right Foot Agility,0,0,0
+Left Foot Agility,0,0,0
+Arise From Chair,0,0,0
+Posture,0,0,0
+Postural Stability,0,0,0
+Gait,0,0,0
+Body Bradykinesia,0,0,0
+H&Y,2,2,2
+Get Up & Go (seconds),10,8,6
