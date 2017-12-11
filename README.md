@@ -33,9 +33,9 @@ Version #1 of the system (developed summer 2014) superimposed user-movement data
 ![alt text](http://digitalmusiclab.org/wp-content/uploads/2015/07/D4P-logo-screenshot-1024x576.jpg) Version #2 (September 2014 to present) uses high-quality motion-capture data, recorded in the [LIVELab](http://livelab.mcmaster.ca/) of the [McMaster Institute for Music and the Mind](https://mimm.mcmaster.ca/), to create an interactive avatar-based system. Currently, we are using the Unity game engine to develop a professional-quality application, in which a dance avatar responds to the user’s mobility—the avatars make real-time movement modifications in reaction to the user’s abilities. This application is being field-tested in the homes of people with PD, and feedback used to guide further development.
 
 The project’s technical methodologies include:
-- Realistic Avatars: Scanning of the dancer using a Microsoft KinectTM camera to create a realistic game model (Body Snap and Mixamo)
+- Realistic Avatars: Scanning of the dancer using a Microsoft Kinect<sup>TM</sup> camera to create a realistic game model (Body Snap and Mixamo)
 - Motion-Capture Animation: Infrared cameras generate a 3D representation of a marked dancer using Qualysis Track Manager. The 3D biological-movement data is linked to the avatar using MotionBuilder
-- Real-time Body Tracking: Microsoft KinectTM v2 camera will be used to track users’ body positions in real-time. This allows for gesture-controlled interactivity within the system
+- Real-time Body Tracking: Microsoft Kinect<sup>TM</sup> v2 camera will be used to track users’ body positions in real-time. This allows for gesture-controlled interactivity within the system
 - Gesture Recognition: Machine-learning software (Visual Gesture Builder) used to generate a body-gesture database, which, in turn, will determine users’ performance
 - Dynamic Game Engine: Unity game engine will create a dynamic system capable of adapting to a user. The game engine will support multiple platform release to Windows and the Xbox One console
 ![alt text](http://digitalmusiclab.org/wp-content/uploads/2015/07/Image7.jpg) 
